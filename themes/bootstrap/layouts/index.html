@@ -21,9 +21,34 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ $numPosts := or .Site.Params.PostSummariesFrontPage 4 }} {{ range first
-      $numPosts (where .Site.RegularPages "Type" "in" .Site.Params.mainSections)
-      }} {{ .Render "summary" }} {{ end }}
+      <p>
+        I recently graduated my bachelor's degree in computer science and now I
+        am working as a Fullstack-Developer at a german InsurTech-StartUp.
+      </p>
+      <p>
+        This blog is a place to practice my fullstack development skills and to
+        write about everything that interests me.
+      </p>
+      <p>
+        This site will host my writing on philosophy, technology,
+        self-education, science, finance, and more.
+      </p>
+      <p>Outside of work, I enjoy:</p>
+      <ul>
+        <li>
+          Solving coding challenges in the form of competitive programming.
+          Recently migrated to
+          <a href="https://www.codewars.com/users/DamianKoz"><u>Codewars</u></a>
+        </li>
+        <li>Solving the rubics cube. Personal record: 45 seconds</li>
+        <li>
+          Playing chess. Recently migrated from chess.com to lichess.com.
+          <a href="https://lichess.org/@/DamianKoza"
+            ><u>Highest Elo: 1400</u></a
+          >
+        </li>
+        <li>Reading</li>
+      </ul>
       <!-- Pager -->
       <ul class="pager">
         <li class="next">
