@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on Damiansblog</title>
+    <link>https://damiansblog.netlify.app/categories/writing/</link>
+    <description>Recent content in writing on Damiansblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Nov 2022 15:39:07 +0100</lastBuildDate><atom:link href="https://damiansblog.netlify.app/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Writing: Why you should write</title>
+      <link>https://damiansblog.netlify.app/on-writing/</link>
+      <pubDate>Wed, 30 Nov 2022 15:39:07 +0100</pubDate>
+      
+      <guid>https://damiansblog.netlify.app/on-writing/</guid>
+      <description>An essay on the art of writing and its potential benefits for your personal and professional life</description>
+    </item>
+    
+  </channel>
+</rss>

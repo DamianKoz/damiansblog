@@ -1,0 +1,21 @@
+[params]
+  DateForm = "January 2, 2006"
+  Description = "Weil technisches Wissen in der heutigen Zeit unabdingbar ist."
+  DescriptionMeta = "Weil technisches Wissen in der heutigen Zeit unabdingbar ist."
+  Author = "Damian Kozakiewicz"
+  postSummariesFrontPage = 5
+  mainSections = ["posts"]
+  copyright = "Created with ♥ by <a href='/about/'>Damian Kozakiewicz</a>. All content is the property of Damian. This blog, its content, and opinions are my own."
+
+# Allow HTML to be included from Markdown files
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  name ="Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2

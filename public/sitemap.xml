@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://damiansblog.netlify.app/categories/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.netlify.app/categories/creativity/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.netlify.app/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.netlify.app/on-writing/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.netlify.app/posts/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.netlify.app/categories/writing/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.netlify.app/tags/</loc>
+  </url>
+</urlset>
