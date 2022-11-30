@@ -1,7 +1,7 @@
 ---
 categories: ["General"]
 date: 2022-11-30T15:59:49+01:00
-draft: true
+draft: false
 title: "Streben nach Universalität"
 summary: "Excel vs Programmierung"
 url: "streben-nach-universalität"
