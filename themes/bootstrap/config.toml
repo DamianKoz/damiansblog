@@ -1,9 +1,9 @@
 [params]
   DateForm = "January 2, 2006"
-  Description = "Hi, welcome to my blog!"
-  DescriptionMeta = "Hi, welcome to my blog!"
+  Description = "A place to learn more about the world surrounding us!"
+  DescriptionMeta = "A place to learn more about the world surrounding us!"
   Author = "Damian Kozakiewicz"
-  postSummariesFrontPage = 5
+  postSummariesFrontPage = 3
   mainSections = ["posts"]
   copyright = "Created with ♥ by <a href='/about/'>Damian Kozakiewicz</a>. All content is the property of Damian. This blog, its content, and opinions are my own."
 
@@ -19,3 +19,20 @@
   name = "Posts"
   url = "/posts/"
   weight = 2
+
+
+[Social]
+  twitter = "damiankozakiew1"
+
+[[params.social]]
+  title = "linkedin"
+  url = "https://www.linkedin.com/in/damian-kozakiewicz-b786a71a2"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/DamianKoz"
+[[params.social]]
+  title = "envelope"
+  url = "/contact/"
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/damiankozakiew1"
