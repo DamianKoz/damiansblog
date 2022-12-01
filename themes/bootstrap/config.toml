@@ -1,7 +1,7 @@
 [params]
   DateForm = "January 2, 2006"
-  Description = "A place to learn more about the world surrounding us!"
-  DescriptionMeta = "A place to learn more about the world surrounding us!"
+  Description = "A place to learn how to thrive in this complex world"
+  DescriptionMeta = "A place to learn how to thrive in this complex world"
   Author = "Damian Kozakiewicz"
   postSummariesFrontPage = 3
   mainSections = ["posts"]
