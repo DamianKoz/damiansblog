@@ -34,6 +34,12 @@ a {
   color: var(--main-text-color);
 }
 
+@media only screen and (max-width: 600px) {
+  iframe {
+    max-width: fit-content;
+  }
+}
+
 a:hover,
 a:focus {
   color: var(--a-hover-color);
