@@ -1,4 +1,4 @@
-baseURL = 'https://damiansblog.netlify.app/'
+baseURL = 'https://damiansblog.netlify.app'
 languageCode = 'en-us'
 title = 'Damiansblog'
 theme = "bootstrap"
