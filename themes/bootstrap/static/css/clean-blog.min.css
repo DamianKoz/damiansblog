@@ -38,6 +38,10 @@ a {
   iframe {
     max-width: fit-content;
   }
+
+  .navbar-brand {
+    visibility: hidden;
+  }
 }
 
 a:hover,
