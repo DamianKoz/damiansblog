@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Damiansblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Nov 2022 15:39:07 +0100</lastBuildDate><atom:link href="https://damiansblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 16:39:11 +0100</lastBuildDate><atom:link href="https://damiansblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>life</title>
+      <link>https://damiansblog.netlify.app/categories/life/</link>
+      <pubDate>Mon, 05 Dec 2022 16:39:11 +0100</pubDate>
+      
+      <guid>https://damiansblog.netlify.app/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>https://damiansblog.netlify.app/categories/general/</link>
+      <pubDate>Wed, 30 Nov 2022 15:59:49 +0100</pubDate>
+      
+      <guid>https://damiansblog.netlify.app/categories/general/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>creativity</title>
       <link>https://damiansblog.netlify.app/categories/creativity/</link>

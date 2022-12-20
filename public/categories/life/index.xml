@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on Damiansblog</title>
+    <link>https://damiansblog.netlify.app/categories/life/</link>
+    <description>Recent content in life on Damiansblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Dec 2022 16:39:11 +0100</lastBuildDate><atom:link href="https://damiansblog.netlify.app/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Kinds of Knowledge</title>
+      <link>https://damiansblog.netlify.app/three-kinds-of-knowledge/</link>
+      <pubDate>Mon, 05 Dec 2022 16:39:11 +0100</pubDate>
+      
+      <guid>https://damiansblog.netlify.app/three-kinds-of-knowledge/</guid>
+      <description>My take on 3 different kinds of knowledge. Pure facts - Applied Knowledge - Conceptual Knowledge.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/three-kinds-of-knowledge/</loc>
+    <lastmod>2022-12-05T16:39:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2022-12-05T16:39:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-12-05T16:39:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/life/</loc>
+    <lastmod>2022-12-05T16:39:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2022-12-05T16:39:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/general/</loc>
+    <lastmod>2022-11-30T15:59:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/streben-nach-universalit%C3%A4t/</loc>
+    <lastmod>2022-11-30T15:59:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/creativity/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/on-writing/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/writing/</loc>
+    <lastmod>2022-11-30T15:39:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
