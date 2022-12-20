@@ -61,7 +61,7 @@ Through writing, you can practice your thinking and wording, and the person that
 
 ## **Good for your career and daily life**
 
-\***\*\*\*\*\***\*\*\***\*\*\*\*\***Build up a personal portfolio\***\*\*\*\*\***\*\*\***\*\*\*\*\***
+**Build up a personal portfolio**
 
 We are transitioning into a skill-based society from a credential-based society. In the past, it was important to have great grades to show that you are a capable person, but it seems like we are starting to acknowledge that grades are not a perfect way to estimate someone's capabilities.
 
