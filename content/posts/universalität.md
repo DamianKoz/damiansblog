@@ -7,31 +7,34 @@ summary: "Excel vs Programmierung"
 url: "streben-nach-universalität"
 ---
 
-In **Beginning of Infinity** beschreibt David Deutsch die Tendenz von Systemen, welche sich allmählich verbessern, plötzlich eine große Zunahme von Funktionalität zu erfahren und dadurch universell zu werden.
+![Photo by Unsplash](https://images.unsplash.com/photo-1580428839063-353cbae694a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxfHxyZXRybyUyMGV4Y2VsfGVufDB8fHx8MTY2OTc5NjAyNA&ixlib=rb-4.0.3&q=80&w=1080)
 
-Ein Beispiel für solche Universalität ist der Druck. Früher musste man ein komplettes Buch per Hand abschreiben, um eine Kopie davon anzufertigen. Dann gab es die Möglichkeit, jede Seite auf eine Druckplatte zu gravieren, um diese Seite dann beliebig oft zu kopieren. Das Problem war jedoch, dass jede Seite einzeln graviert werden musste und dann nicht wiederverwendbar war. Der Sprung zur Universalität gelang dann durch Platten mit beweglichen Buchstaben, welche man in jeder Reihenfolge anordnen konnte, um damit jedes beliebige Buch zu kopieren.
+In seinem Buch **Beginning of Infinity** beschreibt David Deutsch wie Systeme, die sich allmählich verbessern, plötzlich eine große Steigerung ihrer Funktionalität erfahren können und dadurch universell werden. Was hinter dieser Idee und dem Begriff der "Universalität" steckt, möchte ich in diesem Artikel behandeln.
 
-Am Beispiel des Drucks erkennt man, wie ein sich schrittweise verbesserndes System plötzlich so viel an neuer Funktionalität erlangen kann, dass man damit plötzlich jedes Buch drucken kann. Und das wiederum hat indirekt zum beinahe exponentiellen Wachstum des menschlichen Wissens geführt, da Wissen deutlich effizienter verbreitet und gespeichert werden konnte.
+Ein Beispiel für Universalität ist der Druckprozess. In früheren Zeiten musste ein Buch zeitaufwendig und handschriftlich kopiert werden. Das Resultat war dann genau ein weiteres Exemplar des Buches.
+Danach gab es die Möglichkeit, für jede Seite des Buches eine Druckplatte zu gravieren, um diese Seite beliebig oft zu kopieren. Dies hatte jedoch den Nachteil, dass jede Seite einzeln graviert werden musste und dann nicht wiederverwendbar war. Der Sprung zur Universalität gelang dann durch Platten mit beweglichen Buchstaben, welche in beliebiger Reihenfolge angeordnet werden konnten, um damit jedes Buch zu kopieren.
+
+Das Beispiel des Drucks verdeutlich, wie ein System, welches schrittweise verbessert wird, durch eine Innovation universell wird und plötzlich in der Lage ist, jedes zu drucken. Dies hat indirekt zu einem beinahe exponentiellen Wachstum des menschlichen Wissens beigetragen, da Wissen deutlich effizienter verbreitet und gespeichert werden konnte.
 
 Somit ist der größte Vorteil vom Sprung zur Universalität, dass er nicht nur das konkrete Problem löst (ein Buch zu drucken), sondern auch für weitere Innovationen sorgt, auch wenn diese Anfangs nicht vorhersehbar sind.
 
-Ein universelles System ist in diesem Kontext also ein System, welches so lange verbessert wurde, bis es plötzlich über die Grenzen des ursprünglichen Bereichs einsetzbar ist, und dadurch unvorhersehbare Innovationen mit sich bringen kann.
+Somit ist ein universelles System in diesem Kontext ein System, welches so lange verbessert wird, bis es plötzlich über die Grenzen des ursprünglichen Bereichs einsetzbar ist, und dadurch unvorhersehbare Innovationen mit sich bringen kann.
 
-Die Mathematik ist laut dieser Definition ein universelles System. Der ursprüngliche Nutzen von Zahlen war auf einfache Bereiche der Wirtschaft ausgelegt, wie die Lohnabrechnung oder das Zählen von Tieren, Menschen und Getreidemengen. Die ursprüngliche Mathematik war noch weit davon entfernt, universell zu sein. Es wurde anfangs nur mit Strichen gezählt, was das Rechnen mit sehr großen oder komplexen Zahlen unmöglich machte und die Zahl Null gab es auch noch nicht. Erst durch ständige Verbesserung wurde die Mathematik irgendwann mächtig genug, um als universelles System angesehen zu werden und heutzutage durchdringt sie beinahe jeden Bereich.
+Die Mathematik ist laut dieser Definition ebenfalls ein universelles System. Der ursprüngliche Nutzen von Zahlen war auf einfache Bereiche der Wirtschaft ausgelegt, wie die Lohnabrechnung oder das Zählen von Tieren, Menschen und Getreidemengen. Die ursprüngliche Mathematik war noch weit davon entfernt, universell zu sein. Es wurde anfangs nur mit Strichen gezählt, was das Rechnen mit sehr großen oder komplexen Zahlen unmöglich machte und die Zahl Null gab es auch noch nicht. Erst durch ständige Verbesserung wurde die Mathematik irgendwann mächtig genug, um als universelles System angesehen zu werden und heutzutage durchdringt sie beinahe jeden Bereich.
 
 ## Universalität im Beruf
 
-Heutzutage verwenden die meisten Büroarbeiter die klassischen Microsoft Programme Excel, PowerPoint und Word. Und es ist natürlich wichtig, diese gut zu beherrschen, allerdings könnte es wichtiger sein, die zugrundeliegenden Fähigkeiten zu meistern.
+Heutzutage verwenden die meisten Büroarbeiter die klassischen Microsoft Programme Excel, PowerPoint und Word. Es ist natürlich wichtig, diese gut zu beherrschen, allerdings könnte es von größerer Bedeutung sein, die zugrundeliegenden Fähigkeiten zu meistern.
 
-Jedes dieser Programme wird für einen bestimmten Bereich verwendet und dieser sollte eigentlich im Fokus stehen. Denn die konkreten Programme werden irgendwann nicht mehr existieren und durch bessere, modernere Alternativen ersetzt. Die Bereiche, für die sie verwendet werden, bleiben jedoch, daher lohnt es sich immer, das zugrundeliegende Prinzip zu verstehen.
+Jedes dieser Programme wird für einen bestimmten Bereich verwendet und dieser sollte eigentlich im Fokus stehen. Schließlich werden diese Programme irgendwann nicht mehr existieren und durch bessere, moderne Alternativen ersetzt, während der Bereich, für den sie verwendet werden, weiterhin von Bedeutung bleibt.
 
-Das bedeutet: Anstatt jede Funktion in Excel zu lernen, sollte man ebenso die Grundlagen der Mathematik beherrschen, um zu verstehen, was die Funktionen bewirken und um sich sicherer im Umgang mit Zahlen zu fühlen.
+Das bedeutet, anstatt jede Funktion in Excel zu lernen, sollte man sich die Grundlagen der Mathematik aneignen, um zu verstehen, was die Funktionen bewirken und um sich sicherer im Umgang mit Zahlen zu fühlen.
 
-Anstatt jede Funktion in PowerPoint zu lernen, sollte man lernen, wie man Ideen mitreißend und präzise rüberbringt und andere davon überzeugt. Dafür sollte man auch seine Präsentationsfähigkeit und soziale Kompetenz verbessern.
+Anstatt jede Funktion in PowerPoint zu lernen, sollte man lernen, Ideen mitreißend und präzise zu präsentieren. Dafür sollte man seine Präsentationsfähigkeit und soziale Kompetenz verbessern.
 
-Anstatt jede Funktion in Word zu lernen, sollte man sich lieber darauf fokussieren an der eigenen Sprache und Schriftweise zu arbeiten und zu lernen, sich auch schriftlich möglichst präzise auszudrücken.
+Anstatt jede Funktion in Word zu lernen, sollte man lieber die eigene Sprache und Ausdrucksweis verbessern und sich schriftlich möglichst präzise auszudrücken können. Es liegt also die Qualität und die Klarheit der eigenen schriftlichen Kommunikation im Vordergrund.
 
-Somit ist es meist besser, ein grundlegendes Gebiet zu lernen, anstatt spezifischer Werkzeuge. Denn die Werkzeuge, mit denen wir heute arbeiten, sind austauschbar und man kann mit hoher Sicherheit davon ausgehen, dass diese mittelfristig durch bessere Alternativen ersetzt werden. Die grundlegenden Bereiche bleiben jedoch bestehen und so wie der Sprung zur Universalität unerwartete Nebeneffekte hat, so bringt auch ein gutes Fundament in den Bereichen Mathematik, Schreib- und Sozial-Kompetenz und die Fähigkeit sich mit komplexen Themen auseinanderzusetzen, in vielen Situationen Vorteile mit sich, die man nicht hätte vorhersehen können.
+Somit ist es in der Regel besser, anstatt der Bedienung spezifischer Werkzeuge, sich mit dem grundlegenden Gebiet zu beschätigen. Denn die Werkzeuge, mit denen wir heute arbeiten, sind austauschbar und werden mittelfristig mit hoher Sicherheit durch bessere Alternativen ersetzt. Die grundlegenden Bereiche bleiben jedoch bestehen und so wie der Sprung zur Universalität unerwartete Nebeneffekte hat, so bringt auch ein gutes Fundament in den Bereichen Mathematik, Schreib- und Sozial-Kompetenz und die Fähigkeit sich mit komplexen Themen auseinanderzusetzen, in vielen Situationen Vorteile mit sich, die man nicht hätte vorhersehen können.
 
 ## Programmiersprachen sind universelle Werkzeuge
 
@@ -55,17 +58,17 @@ Natürlich ist die Hauptaussage hier nicht, dass wir die einzelnen Tools nicht m
 
 ## Universelles Wissen
 
-Ich habe jetzt mehrmals die Mathematik als Beispiel für ein universelles System genannt, doch es gibt noch viele weitere.
+In diesem Text wurde die Mathematik mehrmals als Beispiel für ein universelles System genannt, doch es gibt noch viele weitere.
 
-Nochmal zur Erinnerung: Universelle Systeme zeichnen sich durch ihre große Reichweite aus. Sie erklären deutlich mehr als ursprünglich gedacht. So wie die Mathematik das Gebiet der Wirtschaft verlassen hat und seitdem alle Bereiche durchdringt.
+Nochmal zur Erinnerung: Universelle Systeme zeichnen sich durch ihre große Reichweite aus und sie erklären deutlich mehr als ursprünglich vorgesehen. So wie die Mathematik das Gebiet der Wirtschaft verlassen hat und seitdem alle Bereiche durchdringt.
 
-Um abzuschätzen, ob etwas universell ist oder nicht, ist die folgende Frage gut: **Wird das Wissen auch noch in 10, 100 und 1000 Jahren relevant sein?**
+Um abzuschätzen, ob etwas universell ist oder nicht, kann die folgende Frage verwendet werden: **Wird das Wissen auch noch in 10, 100 und 1000 Jahren relevant sein?**
 
-Je länger das Wissen relevant bleibt, desto mehr lohnt es sich damit auseinanderzusetzen.
+Je länger das Wissen relevant bleibt, desto lohnenswerter ist es, sich dieses anzueignen.
 
 Die meisten Nachrichten sind bereits nach wenigen Tagen irrelevant und veraltet. Besonders Tagesnachrichten sind hiervon stark betroffen. Wenn in den Nachrichten etwas über die aktuellen Koalitionsverhandlungen steht, dann ist das Wissen ab dem Zeitpunkt, wo die Koalition zustande gekommen ist, veraltet. Daher sind wöchentliche Nachrichten, die bereits eine Filterung durchführen und nur die relevantesten Nchrichten der Woche vorstellen, deutlich besser um informiert zu bleiben.
 
-Das vorherige Beispiel von Excel liegt in der mittleren Zeitspanne, denn es wird voraussichtlich für 10 Jahre noch relevant bleiben. Allerdings bezweifle ich stark, dass es auch in 100 Jahren noch verwendet wird.
+Das vorherige Beispiel von Excel liegt in der mittleren Zeitspanne, denn es wird noch voraussichtlich für 10 Jahre relevant bleiben. Allerdings bezweifle ich stark, dass es auch in 100 Jahren noch verwendet wird.
 
 Die Mathematik hingegen wird mit der Zeit nur relevanter.
 
