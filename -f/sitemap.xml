@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/book-summary/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fooled-by-randomness/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/biases/</loc>
     <lastmod>2023-01-04T13:19:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-01-04T13:19:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-01-04T13:19:46+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/oversimplification/</loc>
-    <lastmod>2023-01-04T13:19:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-04T13:19:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/thinking/</loc>
