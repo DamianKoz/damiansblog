@@ -49,6 +49,11 @@ a:focus {
   color: var(--a-hover-color);
 }
 
+img {
+  max-width: 100%;
+  margin-top: 0;
+}
+
 /* a img:hover,
 a img:focus {
   cursor: zoom-in;

@@ -6,7 +6,43 @@
     <description>Recent content in Categories on Damiansblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Dec 2022 16:39:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 13:19:46 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>biases</title>
+      <link>http://localhost:1313/categories/biases/</link>
+      <pubDate>Wed, 04 Jan 2023 13:19:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/categories/biases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thinking</title>
+      <link>http://localhost:1313/categories/thinking/</link>
+      <pubDate>Wed, 04 Jan 2023 13:19:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/categories/thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature</title>
+      <link>http://localhost:1313/categories/literature/</link>
+      <pubDate>Tue, 03 Jan 2023 11:05:40 +0100</pubDate>
+      
+      <guid>http://localhost:1313/categories/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guidelines-for-life</title>
+      <link>http://localhost:1313/categories/guidelines-for-life/</link>
+      <pubDate>Wed, 21 Dec 2022 09:34:30 +0100</pubDate>
+      
+      <guid>http://localhost:1313/categories/guidelines-for-life/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>life</title>
       <link>http://localhost:1313/categories/life/</link>

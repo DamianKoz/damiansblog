@@ -6,7 +6,34 @@
     <description>Recent content in Posts on Damiansblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Dec 2022 16:39:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 13:19:46 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oversimplification</title>
+      <link>http://localhost:1313/oversimplification/</link>
+      <pubDate>Wed, 04 Jan 2023 13:19:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/oversimplification/</guid>
+      <description>Human beings have a natural desire for simplicity and understanding. The danger lies in our tendency to oversimplify complex matters and our inability to acknowledge that we don&amp;rsquo;t know something.</description>
+    </item>
+    
+    <item>
+      <title>Literature: Classical vs Modern</title>
+      <link>http://localhost:1313/literature-classical-vs-modern/</link>
+      <pubDate>Tue, 03 Jan 2023 11:05:40 +0100</pubDate>
+      
+      <guid>http://localhost:1313/literature-classical-vs-modern/</guid>
+      <description>An essay dealing with the question whether classical literature is inherently better than modern literature. I take the position that it is not, but we should still read more classical works than modern ones, mostly because time filters out low-quality works.</description>
+    </item>
+    
+    <item>
+      <title>Guideline for life - Embrace struggle over comfort</title>
+      <link>http://localhost:1313/struggle-over-comfort/</link>
+      <pubDate>Wed, 21 Dec 2022 09:34:30 +0100</pubDate>
+      
+      <guid>http://localhost:1313/struggle-over-comfort/</guid>
+      <description>An essay about why stressors make us stronger and why struggle over comfort could lead to a happier life.</description>
+    </item>
+    
     <item>
       <title>3 Kinds of Knowledge</title>
       <link>http://localhost:1313/three-kinds-of-knowledge/</link>
