@@ -19,6 +19,10 @@
   name = "Posts"
   url = "/posts/"
   weight = 2
+[[menu.main]]
+  name = "About me"
+  url = "https://damiansblog.notion.site/About-me-cde4ee893e74494a9f2b58272879285d"
+  weight = 3
 
 
 [Social]
