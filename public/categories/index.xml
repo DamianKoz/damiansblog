@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Damiansblog</title>
-    <link>https://damiansblog.netlify.app/categories/</link>
+    <link>https://damiansblog.com/categories/</link>
     <description>Recent content in Categories on Damiansblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2023 09:53:59 +0100</lastBuildDate><atom:link href="https://damiansblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 09:53:59 +0100</lastBuildDate><atom:link href="https://damiansblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complexity</title>
-      <link>https://damiansblog.netlify.app/categories/complexity/</link>
+      <link>https://damiansblog.com/categories/complexity/</link>
       <pubDate>Tue, 14 Feb 2023 09:53:59 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/complexity/</guid>
+      <guid>https://damiansblog.com/categories/complexity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book Summary</title>
-      <link>https://damiansblog.netlify.app/categories/book-summary/</link>
+      <link>https://damiansblog.com/categories/book-summary/</link>
       <pubDate>Wed, 04 Jan 2023 16:38:48 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/book-summary/</guid>
+      <guid>https://damiansblog.com/categories/book-summary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biases</title>
-      <link>https://damiansblog.netlify.app/categories/biases/</link>
+      <link>https://damiansblog.com/categories/biases/</link>
       <pubDate>Wed, 04 Jan 2023 13:19:46 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/biases/</guid>
+      <guid>https://damiansblog.com/categories/biases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thinking</title>
-      <link>https://damiansblog.netlify.app/categories/thinking/</link>
+      <link>https://damiansblog.com/categories/thinking/</link>
       <pubDate>Wed, 04 Jan 2023 13:19:46 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/thinking/</guid>
+      <guid>https://damiansblog.com/categories/thinking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>literature</title>
-      <link>https://damiansblog.netlify.app/categories/literature/</link>
+      <link>https://damiansblog.com/categories/literature/</link>
       <pubDate>Tue, 03 Jan 2023 11:05:40 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/literature/</guid>
+      <guid>https://damiansblog.com/categories/literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guidelines-for-life</title>
-      <link>https://damiansblog.netlify.app/categories/guidelines-for-life/</link>
+      <link>https://damiansblog.com/categories/guidelines-for-life/</link>
       <pubDate>Wed, 21 Dec 2022 09:34:30 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/guidelines-for-life/</guid>
+      <guid>https://damiansblog.com/categories/guidelines-for-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://damiansblog.netlify.app/categories/life/</link>
+      <link>https://damiansblog.com/categories/life/</link>
       <pubDate>Mon, 05 Dec 2022 16:39:11 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/life/</guid>
+      <guid>https://damiansblog.com/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General</title>
-      <link>https://damiansblog.netlify.app/categories/general/</link>
+      <link>https://damiansblog.com/categories/general/</link>
       <pubDate>Wed, 30 Nov 2022 15:59:49 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/general/</guid>
+      <guid>https://damiansblog.com/categories/general/</guid>
       <description></description>
     </item>
     
     <item>
       <title>creativity</title>
-      <link>https://damiansblog.netlify.app/categories/creativity/</link>
+      <link>https://damiansblog.com/categories/creativity/</link>
       <pubDate>Wed, 30 Nov 2022 15:39:07 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/creativity/</guid>
+      <guid>https://damiansblog.com/categories/creativity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>https://damiansblog.netlify.app/categories/writing/</link>
+      <link>https://damiansblog.com/categories/writing/</link>
       <pubDate>Wed, 30 Nov 2022 15:39:07 +0100</pubDate>
       
-      <guid>https://damiansblog.netlify.app/categories/writing/</guid>
+      <guid>https://damiansblog.com/categories/writing/</guid>
       <description></description>
     </item>
     

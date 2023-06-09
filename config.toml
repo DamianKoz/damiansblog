@@ -1,4 +1,5 @@
-baseURL = 'https://damiansblog.netlify.app'
+baseURL = 'https://damiansblog.com'
 languageCode = 'en-us'
 title = 'Damiansblog'
 theme = "bootstrap"
+googleAnalytics = "G-ECDF3ESVLR"
