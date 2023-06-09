@@ -1,10 +1,10 @@
 ---
 categories: ["Complexity"]
 date: 2023-02-14T09:53:59+01:00
-draft: false
+draft: true
 title: "Understanding Complex System"
 summary: "In this post, I explore the concept of complex systems, which are prevalent in our world. It turns out, that reality is often more complex than we naively think."
-url: "understanding-complex-systems"
+slug: "understanding-complex-systems"
 ---
 
 ![Chaos shown through a puzzle](https://images.unsplash.com/photo-1494059980473-813e73ee784b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwyfHxjaGFvc3xlbnwwfHx8fDE2NzYzNjQzNDk&ixlib=rb-4.0.3&q=80&w=1080)

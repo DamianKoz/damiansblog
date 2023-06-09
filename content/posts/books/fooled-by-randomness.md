@@ -4,7 +4,7 @@ date: 2023-01-04T16:38:48+01:00
 draft: false
 title: "Fooled by Randomness - Book Notes & Summary - 9 / 10"
 summary: "My notes on the book 'Fooled by Randomness' by Nassim Taleb. A great book to learn more about our flawed thinking and our biases."
-url: "fooled-by-randomness"
+slug: "fooled-by-randomness"
 ---
 
 # Summary - Key Takeaways

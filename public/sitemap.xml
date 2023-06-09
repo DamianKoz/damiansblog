@@ -2,31 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://damiansblog.com/categories/</loc>
-    <lastmod>2023-02-14T09:53:59+01:00</lastmod>
-  </url><url>
-    <loc>https://damiansblog.com/categories/complexity/</loc>
-    <lastmod>2023-02-14T09:53:59+01:00</lastmod>
-  </url><url>
-    <loc>https://damiansblog.com/</loc>
-    <lastmod>2023-02-14T09:53:59+01:00</lastmod>
-  </url><url>
-    <loc>https://damiansblog.com/posts/</loc>
-    <lastmod>2023-02-14T09:53:59+01:00</lastmod>
-  </url><url>
-    <loc>https://damiansblog.com/understanding-complex-systems/</loc>
-    <lastmod>2023-02-14T09:53:59+01:00</lastmod>
-  </url><url>
     <loc>https://damiansblog.com/categories/book-summary/</loc>
     <lastmod>2023-01-04T16:38:48+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/fooled-by-randomness/</loc>
+    <loc>https://damiansblog.com/categories/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.com/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.com/posts/books/fooled-by-randomness/</loc>
+    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
+  </url><url>
+    <loc>https://damiansblog.com/posts/</loc>
     <lastmod>2023-01-04T16:38:48+01:00</lastmod>
   </url><url>
     <loc>https://damiansblog.com/categories/biases/</loc>
     <lastmod>2023-01-04T13:19:46+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/oversimplification/</loc>
+    <loc>https://damiansblog.com/posts/oversimplification/</loc>
     <lastmod>2023-01-04T13:19:46+01:00</lastmod>
   </url><url>
     <loc>https://damiansblog.com/categories/thinking/</loc>
@@ -35,16 +29,16 @@
     <loc>https://damiansblog.com/categories/literature/</loc>
     <lastmod>2023-01-03T11:05:40+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/literature-classical-vs-modern/</loc>
+    <loc>https://damiansblog.com/posts/literature-classical-vs-modern/</loc>
     <lastmod>2023-01-03T11:05:40+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/struggle-over-comfort/</loc>
+    <loc>https://damiansblog.com/posts/struggle-over-comfort/</loc>
     <lastmod>2022-12-21T09:34:30+01:00</lastmod>
   </url><url>
     <loc>https://damiansblog.com/categories/guidelines-for-life/</loc>
     <lastmod>2022-12-21T09:34:30+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/three-kinds-of-knowledge/</loc>
+    <loc>https://damiansblog.com/posts/three-kinds-of-knowledge/</loc>
     <lastmod>2022-12-05T16:39:11+01:00</lastmod>
   </url><url>
     <loc>https://damiansblog.com/categories/life/</loc>
@@ -53,13 +47,13 @@
     <loc>https://damiansblog.com/categories/general/</loc>
     <lastmod>2022-11-30T15:59:49+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/streben-nach-universalit%C3%A4t/</loc>
+    <loc>https://damiansblog.com/posts/streben-nach-universalit%C3%A4t/</loc>
     <lastmod>2022-11-30T15:59:49+01:00</lastmod>
   </url><url>
     <loc>https://damiansblog.com/categories/creativity/</loc>
     <lastmod>2022-11-30T15:39:07+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/on-writing/</loc>
+    <loc>https://damiansblog.com/posts/on-writing/</loc>
     <lastmod>2022-11-30T15:39:07+01:00</lastmod>
   </url><url>
     <loc>https://damiansblog.com/categories/writing/</loc>

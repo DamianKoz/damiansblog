@@ -4,7 +4,7 @@ date: 2022-11-30T15:39:07+01:00
 draft: false
 title: "On Writing: Why you should write"
 summary: "An essay on the art of writing and its potential benefits for your personal and professional life"
-url: "on-writing"
+slug: "on-writing"
 ---
 
 I have always been inspired by authors. This profession has something magical about it. Whenever I hear stories of writers sitting down deeply and deliberately for a few hours, writing down their thoughts and transferring their knowledge onto paper and thereby producing something valuable, I just cannot help myself but get inspired, and it makes me want to start writing as well.

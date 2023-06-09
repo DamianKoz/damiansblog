@@ -4,7 +4,7 @@ date: 2022-11-30T15:59:49+01:00
 draft: false
 title: "Streben nach Universalität"
 summary: "Excel vs Programmierung"
-url: "streben-nach-universalität"
+slug: "streben-nach-universalität"
 ---
 
 ![Photo by Unsplash](https://images.unsplash.com/photo-1580428839063-353cbae694a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxfHxyZXRybyUyMGV4Y2VsfGVufDB8fHx8MTY2OTc5NjAyNA&ixlib=rb-4.0.3&q=80&w=1080)

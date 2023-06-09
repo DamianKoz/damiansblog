@@ -4,7 +4,7 @@ date: 2023-01-04T13:19:46+01:00
 draft: false
 title: "Oversimplification"
 summary: "Human beings have a natural desire for simplicity and understanding. The danger lies in our tendency to oversimplify complex matters and our inability to acknowledge that we don't know something."
-url: "oversimplification"
+slug: "oversimplification"
 ---
 
 ![Simple Cubes in 3d](https://images.unsplash.com/photo-1622737133809-d95047b9e673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHw5fHxzaW1wbGV8ZW58MHx8fHwxNjcyODM0NDM5&ixlib=rb-4.0.3&q=80&w=1080)

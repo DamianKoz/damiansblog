@@ -4,7 +4,7 @@ date: 2022-12-21T09:34:30+01:00
 draft: false
 title: "Guideline for life - Embrace struggle over comfort"
 summary: "An essay about why stressors make us stronger and why struggle over comfort could lead to a happier life."
-url: "struggle-over-comfort"
+url: ""
 ---
 
 The idea that one can find happiness through a reduction of comfort and an increase in struggle may seem strange, but let me try to explain this idea.

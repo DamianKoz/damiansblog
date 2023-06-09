@@ -4,7 +4,7 @@ date: 2023-01-03T11:05:40+01:00
 draft: false
 title: "Literature: Classical vs Modern"
 summary: "An essay dealing with the question whether classical literature is inherently better than modern literature. I take the position that it is not, but we should still read more classical works than modern ones, mostly because time filters out low-quality works."
-url: "literature-classical-vs-modern"
+slug: "literature-classical-vs-modern"
 ---
 
 ![Photo by Unsplash](https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwzfHxsaXRlcmF0dXJlfGVufDB8fHx8MTY3MjczOTc2NQ&ixlib=rb-4.0.3&q=80&w=1080)

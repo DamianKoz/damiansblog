@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 title: "{{ replace .Name "-" " " | title }}"
 summary: ""
-url: ""
+slug: ""
 ---
 
 **Replace with Rest of Content**

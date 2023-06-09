@@ -6,7 +6,7 @@ date: 2022-12-05T16:39:11+01:00
 draft: false
 title: "3 Kinds of Knowledge"
 summary: "My take on 3 different kinds of knowledge. Pure facts - Applied Knowledge - Conceptual Knowledge."
-url: "three-kinds-of-knowledge"
+slug: "three-kinds-of-knowledge"
 ---
 
 I have spent a long time asking myself why some knowledge might be better than others. Whenever I read philosophy, I wonder if this is truly better than watching TV or reading news about celebrities, or just spending time on social media.
