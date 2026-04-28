@@ -1,5 +1,17 @@
 baseURL = 'https://damiansblog.com'
 languageCode = 'en-us'
-title = 'Damiansblog'
+title = 'Damian Kozakiewicz'
 theme = "bootstrap"
 googleAnalytics = "G-ECDF3ESVLR"
+
+[params]
+  twitterHandle = "damiankozakiew1"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+  [markup.goldmark.renderer]
+    unsafe = true
+

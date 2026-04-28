@@ -1,4 +1,20 @@
 {{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Damian Kozakiewicz",
+  "url": "https://damiansblog.com",
+  "sameAs": [
+    "https://www.linkedin.com/in/damian-kozakiewicz-b786a71a2",
+    "https://github.com/DamianKoz",
+    "https://twitter.com/damiankozakiew1",
+    "http://dmko.org"
+  ],
+  "jobTitle": "Software Engineer",
+  "description": "{{ .Site.Params.Description }}"
+}
+</script>
 
 <!-- Page Header -->
 <header class="intro-header">

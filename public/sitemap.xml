@@ -2,63 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://damiansblog.com/categories/book-summary/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-12-15T15:41:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-15T15:41:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/education/</loc>
+    <lastmod>2024-12-15T15:41:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-15T15:41:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/video-games/</loc>
+    <lastmod>2024-12-15T15:41:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/video-games-and-education/</loc>
+    <lastmod>2024-12-15T15:41:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/complexity/</loc>
+    <lastmod>2023-02-14T09:53:59+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/understanding-complex-systems/</loc>
+    <lastmod>2023-02-14T09:53:59+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/book-summary/</loc>
     <lastmod>2023-01-04T16:38:48+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/</loc>
+    <loc>http://localhost:1313/posts/books/fooled-by-randomness/</loc>
     <lastmod>2023-01-04T16:38:48+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/</loc>
-    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
-  </url><url>
-    <loc>https://damiansblog.com/posts/books/fooled-by-randomness/</loc>
-    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
-  </url><url>
-    <loc>https://damiansblog.com/posts/</loc>
-    <lastmod>2023-01-04T16:38:48+01:00</lastmod>
-  </url><url>
-    <loc>https://damiansblog.com/categories/biases/</loc>
+    <loc>http://localhost:1313/categories/biases/</loc>
     <lastmod>2023-01-04T13:19:46+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/posts/oversimplification/</loc>
+    <loc>http://localhost:1313/posts/oversimplification/</loc>
     <lastmod>2023-01-04T13:19:46+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/thinking/</loc>
+    <loc>http://localhost:1313/categories/thinking/</loc>
     <lastmod>2023-01-04T13:19:46+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/literature/</loc>
+    <loc>http://localhost:1313/categories/literature/</loc>
     <lastmod>2023-01-03T11:05:40+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/posts/literature-classical-vs-modern/</loc>
+    <loc>http://localhost:1313/posts/literature-classical-vs-modern/</loc>
     <lastmod>2023-01-03T11:05:40+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/posts/struggle-over-comfort/</loc>
+    <loc>http://localhost:1313/posts/struggle-over-comfort/</loc>
     <lastmod>2022-12-21T09:34:30+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/guidelines-for-life/</loc>
+    <loc>http://localhost:1313/categories/guidelines-for-life/</loc>
     <lastmod>2022-12-21T09:34:30+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/posts/three-kinds-of-knowledge/</loc>
+    <loc>http://localhost:1313/posts/three-kinds-of-knowledge/</loc>
     <lastmod>2022-12-05T16:39:11+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/life/</loc>
+    <loc>http://localhost:1313/categories/life/</loc>
     <lastmod>2022-12-05T16:39:11+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/general/</loc>
+    <loc>http://localhost:1313/categories/general/</loc>
     <lastmod>2022-11-30T15:59:49+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/posts/streben-nach-universalit%C3%A4t/</loc>
+    <loc>http://localhost:1313/posts/streben-nach-universalit%C3%A4t/</loc>
     <lastmod>2022-11-30T15:59:49+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/creativity/</loc>
+    <loc>http://localhost:1313/categories/creativity/</loc>
     <lastmod>2022-11-30T15:39:07+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/posts/on-writing/</loc>
+    <loc>http://localhost:1313/posts/on-writing/</loc>
     <lastmod>2022-11-30T15:39:07+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/categories/writing/</loc>
+    <loc>http://localhost:1313/categories/writing/</loc>
     <lastmod>2022-11-30T15:39:07+01:00</lastmod>
   </url><url>
-    <loc>https://damiansblog.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

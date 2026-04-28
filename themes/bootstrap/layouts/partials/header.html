@@ -4,21 +4,35 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="description"
-      content="{{ if .Site.Params.DescriptionMeta }}{{ .Site.Params.DescriptionMeta }}{{ end }}"
-    />
+    {{- $desc := cond .IsHome .Site.Params.DescriptionMeta (cond (ne .Summary "") .Summary .Site.Params.DescriptionMeta) -}}
+    <meta name="description" content="{{ $desc }}" />
     <meta
       name="author"
       content="{{ if .Params.authors }}{{ .Params.authors }}{{ else if .Site.Params.Author }}{{.Site.Params.Author}}{{ end }}"
     />
-    <meta name="keywords" content="{{ if .Keywords }}{{ delimit .Keywords ", "
-    }}{{ end }}">
+    <meta name="keywords" content="{{ if .Keywords }}{{ delimit .Keywords ", " }}{{ end }}">
+    <link rel="canonical" href="{{ .Permalink }}" />
 
     <title>
       {{- if .IsHome -}} {{ .Site.Title }} - {{ .Site.Params.Description }} {{-
       else -}} {{ .Title }} | {{ .Site.Title }} {{- end -}}
     </title>
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.Description }}{{ else }}{{ .Title }}{{ end }}" />
+    <meta property="og:description" content="{{ $desc }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    {{ if not .IsHome }}
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
+    {{ end }}
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    {{ with .Site.Params.twitterHandle }}<meta name="twitter:site" content="@{{ . }}" />{{ end }}
+    <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
+    <meta name="twitter:description" content="{{ $desc }}" />
 
     <!-- Bootstrap Core CSS -->
     <link
@@ -73,5 +87,3 @@
       </div>
       <!-- /.container -->
     </nav>
-  </body>
-</html>
