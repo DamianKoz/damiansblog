@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<!-- Page Header -->
+  <header
+    class="intro-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="post-heading">
+            <h1>{{ .Title }}</h1>
+            <h2 class="subheading">{{ .Description }}</h2>
+            <span class="meta"> {{ partial "meta.html" .}}
+          </div></span>
+
+        </div>
+      </div>
+    </div>
+</header>
+
+  <!-- Post Content -->
+  <article class="article">
+    <div class="container">
+      <div class="row post-content">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <p><em>This is a note: a shorter, rougher piece I'm posting to stay in the habit of writing. It hasn't been polished the way my regular posts are.</em></p>
+          <hr />
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </article>
+
+  {{ end }}
