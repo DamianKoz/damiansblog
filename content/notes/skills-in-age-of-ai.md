@@ -6,10 +6,14 @@ summary: "What skills are worth aquiring in the age of ai? "
 slug: ""
 ---
 The current advancement of AIs, especially LLMs, has led to the question, which skills and values make us human and will be relevant in the future. Ever more skills that were deemed to be deeply human, from thinking, problem solving and speaking in general are being done by LLMs in a way that outclass most humans. Therefore the question arises, which skills we still want to learn and why we should learn them. 
-I believe that we must split this question into two areas: professional and leisure skills. 
+I believe that we must split this question into two areas: professional and leisure skills.
+
 The skills on the professional front are hard for me to analyze. It is such a fast moving area of research and development, that barely any prediction holds for long. This is especially made harder through the fact, that we could also stay at a plateau at any time, which would also alter the predictions in a strong way. 
-Anyways, I don't want to focus on the professional side here. I rather want to think about the personal skills. This question has lingered with me for a long time, but this article by Douglas Hofstadter https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/ made me question this more deeply.
+
+Anyways, I don't want to focus on the professional side here. I rather want to think about the personal skills. This question has lingered with me for a long time, but [this article by Douglas Hofstadter](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/) made me question this more deeply.
+
 In this article, Hofstadter argues that the rise of AI Translations will make the learning of new languages obsolete. That nobody will experience the joy he has had after struggling with different languages, to then finally being able to express himself in a foreign language and through that, while stumbling and making mistakes, expressing himself in the most human way. And while I deeply enjoy Hofstadters thoughts usually i just cannot understand this argument. Just because I don't need to learn a new language, I can still decide to do this. He himself even mentions the example of a person that prepares for a Mount Everest climb, investing weeks and weeks of time and thousands of dollars and most importantly a lot of hard work and pain, for something that he could achieve simply with a helicopter. 
 And that is exactly the beauty of a future which is completely AI dominated skill wise. And even though we don't have to do anything anymore, we still choose to do it. I honestly believe, that this is even more intriguing. 
+
 Take Chess for example. It's basically a solved game, with engines being on superhuman level for quite a few years already. And still, learning and playing chess was one of the most fulfilling phases, because I knew that I was aquiring a new skill, struggling in the process of improvement and becoming a better version of myself. 
 It's the same for learning languages and that is why I have to contradict Hofstadter. There will be many people still learning foreign languages and expressing themselves in the most human way. But most of the time, we can just choose a translator, conveying 95% of the intended content. 
